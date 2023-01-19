@@ -1,16 +1,14 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=DongjunPark&fontAlign=30&fontAlignY=35&color=gradient)
 
-<!--
-**qkrehdwns032/qkrehdwns032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Software
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-4848d6?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language
+
+C / JAVA / Python 
+
+## contact ❤️ VIA Email skhu202014128@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehdwns032)](https://solved.ac/qkrehdwns032/)
+
