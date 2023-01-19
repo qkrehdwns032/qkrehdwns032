@@ -12,3 +12,4 @@ C / JAVA
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehdwns032)](https://solved.ac/qkrehdwns032/)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
