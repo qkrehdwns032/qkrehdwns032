@@ -2,11 +2,11 @@
 
 
 ### Software
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-4848d6?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+#### Visual Studio / Git 
 
 ### Language
 
-C / JAVA / Python 
+C / JAVA 
 
 ## contact ❤️ VIA Email skhu202014128@gmail.com
 
