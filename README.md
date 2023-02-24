@@ -2,7 +2,7 @@
 
 
 ### Software
-#### Visual Studio / Git 
+#### Visual Studio / eclipse / Git 
 
 ### Language
 
