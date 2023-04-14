@@ -2,7 +2,7 @@
 
 
 ### Software
-#### https://img.shields.io/badge/-Visual%20Studio-blue / Eclipse / Git 
+####  <img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio2B%2B&logoColor=white">/ Eclipse / Git 
 
 ### Language
 
