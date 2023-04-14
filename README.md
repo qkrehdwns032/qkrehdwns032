@@ -2,11 +2,11 @@
 
 
 ### Software
-####  <img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio2B%2B&logoColor=white">/ Eclipse / Git 
+####  <img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio2B%2B&logoColor=white">/ <img src="https://img.shields.io/badge/-Eclipse-orange?style=for-the-badge&logo=Eclipse2B%2B&logoColor=white"> / Git 
 
 ### Language
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c2B%2B&logoColor=white"> / <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> / <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c2B%2B&logoColor=white"> / <img src="https://img.shields.io/badge/java-pink?style=for-the-badge&logo=java&logoColor=white"> / <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white">
 
 
 ## contact ❤️ VIA Email qkrehdwns032@naver.com
