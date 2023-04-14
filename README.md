@@ -7,7 +7,7 @@
 ### Language
 
 C / JAVA /Python
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/-green?style=flat-square&logo=C&logoColor=A8B9CC">
 
 
 ## contact ❤️ VIA Email qkrehdwns032@naver.com
