@@ -11,7 +11,7 @@
 
 ## contact ❤️ VIA Email SKHU202014128@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehdwns032&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehdwns032&show_icons=true&theme=gruvbox)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehdwns032)](https://solved.ac/qkrehdwns032/)
 
