@@ -10,9 +10,6 @@ C / JAVA /Python
 
 ## contact ❤️ VIA Email qkrehdwns032@naver.com
 
-
-
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehdwns032&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehdwns032&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehdwns032)](https://solved.ac/qkrehdwns032/)
