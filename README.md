@@ -2,7 +2,7 @@
 
 
 ### Software
-####  <img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio2B%2B&logoColor=white">/ <img src="https://img.shields.io/badge/-Eclipse-orange?style=for-the-badge&logo=Eclipse2B%2B&logoColor=white"> / Git 
+####  <img src="https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=Visual%20Studio2B%2B&logoColor=white">/ <img src="https://img.shields.io/badge/-Eclipse-orange?style=for-the-badge&logo=Eclipse2B%2B&logoColor=white"> / <img src="https://img.shields.io/badge/-Git-green?style=for-the-badge&logo=Git2B%2B&logoColor=white">
 
 ### Language
 
