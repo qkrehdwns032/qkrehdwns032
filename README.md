@@ -2,11 +2,11 @@
 
 
 ### Software
-#### Visual Studio / eclipse / Git 
+#### Visual Studio / Eclipse / Git 
 
 ### Language
 
-C / JAVA 
+C / JAVA /Python
 
 ## contact ❤️ VIA Email qkrehdwns032@naver.com
 
