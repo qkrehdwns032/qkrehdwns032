@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c2B%2B&logoColor=white"> / <img src="https://img.shields.io/badge/java-pink?style=for-the-badge&logo=java&logoColor=white"> / <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white">
 
 
-## contact ❤️ VIA Email qkrehdwns032@naver.com
+## contact ❤️ VIA Email SKHU202014128@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrehdwns032&show_icons=true&theme=radical)
 
