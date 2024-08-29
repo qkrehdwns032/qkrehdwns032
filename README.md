@@ -2,8 +2,6 @@
 
 ### <img src="https://img.shields.io/badge/Contact-%23121011?style=for-the-badge">
 
-[![Naver Badge](https://img.shields.io/badge/-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:qkrehdwns032@naver.com)](mailto:qkrehdwns032@naver.com)
-
 
 ### <img src="https://img.shields.io/badge/Stack-%23121011?style=for-the-badge">
 
